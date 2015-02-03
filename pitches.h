@@ -1,0 +1,32 @@
+
+#define NOTE_1  31
+#define NOTE_2 33
+#define NOTE_3 35
+#define NOTE_4  37
+#define NOTE_5 39
+#define NOTE_6  41
+#define NOTE_7  44
+#define NOTE_8 46
+#define NOTE_9  49
+#define NOTE_10 52
+#define NOTE_11  55
+#define NOTE_12 58
+#define NOTE_13  62
+#define NOTE_14 65
+#define NOTE_15 69
+#define NOTE_16  73
+#define NOTE_17 78
+#define NOTE_18  82
+#define NOTE_19  87
+#define NOTE_20 93
+#define NOTE_21  98
+#define NOTE_22 104
+#define NOTE_23  110
+#define NOTE_24 117
+#define NOTE_25  123
+#define NOTE_26  131
+#define NOTE_27 139
+#define NOTE_28  147
+#define NOTE_29 156
+#define NOTE_30  165
+
